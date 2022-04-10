@@ -1,0 +1,18 @@
+.register-form input {
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+.submit-btn {
+    background-color: #0044ffd3;
+    color: white;
+    padding: 7px 20px;
+    border: none;
+    border-radius: 5px;
+    transition: .4s;
+}
+
+.submit-btn:hover {
+    cursor: pointer;
+    background-color: #0044ffe8;
+}
